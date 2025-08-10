@@ -104,7 +104,7 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-rover);
 }
 
@@ -173,3 +173,4 @@ Usado no projeto:
     --cor-rover:#57B4BA;    
 
 --------------------------------- */
+
