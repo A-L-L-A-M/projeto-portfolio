@@ -142,6 +142,7 @@ body {
 }
 
 /* ------------------------------
+
 ##### Paleta de cores #####
 
 Usado no projeto:
@@ -149,28 +150,6 @@ Usado no projeto:
 #F3E2D4  -  #C5B0CD  -  #415E72
 #17313E  -  #------  -  #------
 
------------------------------------
-
-#### Modelo 01 ####
-
---cor-primaria: #17313E;
-    --cor-secundaria: #F3E2D4;
-    --cor-terciaria: #C5B0CD;
-    --cor-rover:#415E72;
-
-#### Modelo 02 ####
-
---cor-primaria: #F1E3D3;
-    --cor-secundaria: #1B4D3E;
-    --cor-terciaria: #690B22;
-    --cor-rover:#E07A5F;
-
-#### Modelo 03 ####
-
---cor-primaria: #FDFBEE;
-    --cor-secundaria: #015551;
-    --cor-terciaria: #FE4F2D;
-    --cor-rover:#57B4BA;    
-
 --------------------------------- */
+
 
